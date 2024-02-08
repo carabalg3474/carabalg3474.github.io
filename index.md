@@ -5,3 +5,5 @@ Our revolutionary Grown Lobsters are living, breathing artificial lobsters that 
 This means that you can enjoy the same delicious lobster experience without any of the environmental or ethical concerns associated with harvesting wild lobsters. And because our Grown Lobsters are cultivated in a controlled environment, they are always healthy and free from harmful contaminants.
 
 Indulge in the luxurious taste of lobster with Grown Lobsters - the sustainable and ethical seafood of the future!
+<img scr="pixarlobster.png">
+<img scr="nuclearlobster.png">
