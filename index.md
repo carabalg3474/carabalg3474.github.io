@@ -6,4 +6,4 @@ This means that you can enjoy the same delicious lobster experience without any 
 
 Indulge in the luxurious taste of lobster with Grown Lobsters - the sustainable and ethical seafood of the future!
 <img src="pixarlobster.png">
-<img src="nuclearlobster.png">
+<img src="nuclearlobster.jpg">
